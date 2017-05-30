@@ -1,0 +1,29 @@
+Obs: 753
+
+variable   		description
+-----------------------------------------------------------------------------
+taxableinc     	Taxable income for household 
+federaltax     	Federal income taxes 
+hsiblings       husband's number of siblings  
+hfathereduc     husband's father's education level
+hmothereduc     husband's mothers's education level
+siblings       	Wife's number of siblings
+lfp        	dummy variable = 1 if woman worked in 1975, else 0
+hours       	Wife's hours of work in 1975
+kidsl6        	Number of children less than 6 years old in household
+kids618       	Number of children between ages 6 and 18 in household
+age         	Wife's age
+educ         	Wife's educational attainment, in years
+wage         	Wife's 1975 average hourly earnings, in 1975 dollars
+wage76       	Wife's wage reported at 1976 interview, for 1976
+hhours       	Husband's hours worked in 1975
+hage         	Husband's age
+heduc         	Husband's educational attainment, in years
+hwage         	Husband's wage, in 1975 dollars
+faminc     	Family income, in 1975 dollars
+mtr        	marginal tax rate facing the wife, includes Soc Sec taxes
+mothereduc      wife's mother's education level
+fathereduc      wife's father's education level
+unemployment   	Unemployment rate in county of residence
+bigcity        	Dummy variable = 1 if live in large city (SMSA), else 0
+exper         	Actual years of wife's previous labor market experience
